@@ -1,0 +1,12 @@
+.nav{
+
+  display: flex;
+
+  justify-content: space-evenly;
+
+  background-color:palevioletred;
+
+  padding: 25px;
+
+  
+}
